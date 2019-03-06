@@ -1,0 +1,5 @@
+ja:
+  date:
+    formats:
+      default: "yyyy/m/d"
+      datepicker: "yyyy/m/d"
